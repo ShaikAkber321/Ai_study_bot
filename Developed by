@@ -1,0 +1,79 @@
+
+---
+
+# 🏆 BUILDATHON SUBMISSION CONTENT (NxtWave)
+
+### 🔹 Project Title
+**AI Study Buddy – GenAI Powered Learning Assistant**
+
+---
+
+### 🔹 Project Description
+AI Study Buddy is a web-based GenAI application that helps students understand academic concepts and practice through automatically generated quizzes. The system uses a large language model to provide simple explanations and MCQs, enabling interactive and personalized learning.
+
+---
+
+### 🔹 Problem It Solves
+Many students face difficulty in understanding complex topics and lack instant doubt clarification. AI Study Buddy addresses this by providing real-time explanations and practice questions in an easy-to-use interface.
+
+---
+
+### 🔹 Tech Stack Used
+- HTML, CSS
+- Python (Flask)
+- Groq API
+- LLaMA 3.1 Instant model
+
+---
+
+### 🔹 How GenAI Is Used
+Generative AI is used to:
+- Explain user-entered topics in simple language
+- Dynamically generate multiple-choice quizzes
+- Adapt responses based on user input
+
+---
+
+### 🔹 Key Features
+- Concept explanation
+- MCQ quiz generation
+- Fast and accurate AI responses
+- Clean and student-friendly UI
+
+---
+
+### 🔹 Future Scope
+- Personalized learning paths
+- Multilingual support
+- Voice interaction
+- Exam-specific study modes
+
+---
+
+## 🎥 Demo Video Script (Short)
+> “This is AI Study Buddy, a GenAI-powered learning assistant.  
+> The user enters a topic, and the system explains it in simple words or generates quizzes using AI.  
+> The backend is built using Flask and integrates Groq’s LLaMA model for fast responses.  
+> This project helps students learn interactively and efficiently.”
+
+---
+
+## ✅ FINAL CHECKLIST BEFORE SUBMISSION
+✔ App running  
+✔ GitHub repo uploaded  
+✔ README added  
+✔ Demo video recorded  
+✔ Submission text ready  
+
+---
+
+## 🚀 You Are DONE
+This is a **strong, complete buildathon project** 💪  
+Not beginner-looking, not overcomplicated — **perfect balance**.
+
+### Want next?
+- **5️⃣ Demo video full script**
+- **Bonus:** Environment variable API key (safe for GitHub)
+- **Bonus:** Add “Explain like I’m 10” mode
+
+Just tell me 👌
